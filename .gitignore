@@ -1,3 +1,2 @@
-# ---- un-ignore Unity’s WebGL export ----
-!/Build/          # re-include the directory itself
-!/Build/**        # re-include everything under it
+!**/Build/
+!**/Build/**
